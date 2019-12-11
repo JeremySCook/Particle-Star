@@ -6,4 +6,4 @@ Designed to print without supports, though it needs to be flipped from how it's 
 Solutech ["Clear" filament used ](https://amzn.to/2qLYIQI) (Amazon affiliate) for print
 
 ![image](star-crop.jpg)  
-![image](snap.jpg)
+![image](snap.JPG)
